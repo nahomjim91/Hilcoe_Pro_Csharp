@@ -1,0 +1,15 @@
+C:\Users\selihom\Desktop\C#\c#labGit\Hilcoe_Pro_Csharp\ISHAPENEW\obj\Debug\net6.0\ISHAPENEW.csproj.AssemblyReference.cache
+C:\Users\selihom\Desktop\C#\c#labGit\Hilcoe_Pro_Csharp\ISHAPENEW\obj\Debug\net6.0\ISHAPENEW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selihom\Desktop\C#\c#labGit\Hilcoe_Pro_Csharp\ISHAPENEW\obj\Debug\net6.0\ISHAPENEW.AssemblyInfoInputs.cache
+C:\Users\selihom\Desktop\C#\c#labGit\Hilcoe_Pro_Csharp\ISHAPENEW\obj\Debug\net6.0\ISHAPENEW.AssemblyInfo.cs
+C:\Users\selihom\Desktop\C#\c#labGit\Hilcoe_Pro_Csharp\ISHAPENEW\obj\Debug\net6.0\ISHAPENEW.csproj.CoreCompileInputs.cache
+C:\Users\selihom\Desktop\C#\c#labGit\Hilcoe_Pro_Csharp\ISHAPENEW\bin\Debug\net6.0\ISHAPENEW.exe
+C:\Users\selihom\Desktop\C#\c#labGit\Hilcoe_Pro_Csharp\ISHAPENEW\bin\Debug\net6.0\ISHAPENEW.deps.json
+C:\Users\selihom\Desktop\C#\c#labGit\Hilcoe_Pro_Csharp\ISHAPENEW\bin\Debug\net6.0\ISHAPENEW.runtimeconfig.json
+C:\Users\selihom\Desktop\C#\c#labGit\Hilcoe_Pro_Csharp\ISHAPENEW\bin\Debug\net6.0\ISHAPENEW.dll
+C:\Users\selihom\Desktop\C#\c#labGit\Hilcoe_Pro_Csharp\ISHAPENEW\bin\Debug\net6.0\ISHAPENEW.pdb
+C:\Users\selihom\Desktop\C#\c#labGit\Hilcoe_Pro_Csharp\ISHAPENEW\obj\Debug\net6.0\ISHAPENEW.dll
+C:\Users\selihom\Desktop\C#\c#labGit\Hilcoe_Pro_Csharp\ISHAPENEW\obj\Debug\net6.0\refint\ISHAPENEW.dll
+C:\Users\selihom\Desktop\C#\c#labGit\Hilcoe_Pro_Csharp\ISHAPENEW\obj\Debug\net6.0\ISHAPENEW.pdb
+C:\Users\selihom\Desktop\C#\c#labGit\Hilcoe_Pro_Csharp\ISHAPENEW\obj\Debug\net6.0\ISHAPENEW.genruntimeconfig.cache
+C:\Users\selihom\Desktop\C#\c#labGit\Hilcoe_Pro_Csharp\ISHAPENEW\obj\Debug\net6.0\ref\ISHAPENEW.dll
